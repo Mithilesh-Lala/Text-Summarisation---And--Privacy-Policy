@@ -1,13 +1,10 @@
 # Browser Extension links:
 
-## Chrome: 
-https://chromewebstore.google.com/detail/text-summarizer-with-pega/mkiignhbodfbdfhiijlejchekecighca?utm_source=ext_app_menu
+## Chrome: https://chromewebstore.google.com/detail/text-summarizer-with-pega/mkiignhbodfbdfhiijlejchekecighca?utm_source=ext_app_menu
 
-## Mozilla Firefox:
-https://addons.mozilla.org/addon/text-summarizer-with-pegasus/
+## Mozilla Firefox: https://addons.mozilla.org/addon/text-summarizer-with-pegasus/
 
-## Edge:
-https://microsoftedge.microsoft.com/addons/detail/text-summarizer-with-pega/fbalcfcfhfamknmkoikbglmlmdogplhe 
+## Edge:  https://microsoftedge.microsoft.com/addons/detail/text-summarizer-with-pega/fbalcfcfhfamknmkoikbglmlmdogplhe 
 
 
 
