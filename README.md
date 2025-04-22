@@ -84,10 +84,4 @@ The extension is not intended for use by children under the age of 13. We do not
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or our practices, please contact us at:
-
-[Your Email Address or Contact Information]
-
-## Governing Law
-
-This Privacy Policy is governed by and construed in accordance with the laws of [Your Country/State].
+If you have any questions about this Privacy Policy or our practices, please contact us.
