@@ -1,3 +1,16 @@
+# Browser Extension links:
+
+## Chrome: 
+https://chromewebstore.google.com/detail/text-summarizer-with-pega/mkiignhbodfbdfhiijlejchekecighca?utm_source=ext_app_menu
+
+## Mozilla Firefox:
+https://addons.mozilla.org/addon/text-summarizer-with-pegasus/
+
+## Edge:
+https://microsoftedge.microsoft.com/addons/detail/text-summarizer-with-pega/fbalcfcfhfamknmkoikbglmlmdogplhe 
+
+
+
 # Privacy Policy for Text Summarizer with Pegasus
 
 **Last Updated: April 6, 2025**
